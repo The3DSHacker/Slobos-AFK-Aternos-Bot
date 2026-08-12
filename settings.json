@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "surelytech.aternos.me:18159",
     "port": 27586,
     "version": "",
     "try-creative": false
